@@ -50,5 +50,5 @@ Chaque objet de la liste répond au format
 
 La date doit être un string avec le format "JJ-MM-AAAA". Ce qui est renvoyé est simplement une liste d'horaires au format "HH:MM".
 
-# Exemples
+## Exemples
 Des exemples peuvent être trouvés dans le dossier test

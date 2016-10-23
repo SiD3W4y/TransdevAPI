@@ -1,4 +1,4 @@
-var Transdev = require("../scripts/Transdev.js");
+var Transdev = require("../scripts/Transdev");
 
 var api = new Transdev();
 
